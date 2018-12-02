@@ -1,5 +1,5 @@
 # MusicATE  
-### **Match while listening to music out of the blue** :musical_note: :sparkling_heart:
+### **Match while listening to music out of the blue**
 
 </br>
 <div align=center>
