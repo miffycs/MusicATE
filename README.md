@@ -1,4 +1,4 @@
-# Vinder
+# MusicATE
 
 ## Getting Started
 * Make a clone of the project
@@ -13,6 +13,7 @@ $ firebase serve
 ## Communication
 * [Google Drive](https://goo.gl/DrM7m5)
 * [Google Doc](https://goo.gl/X9BNhK)
+* https://devpost.com/submit-to/7330-mlh-local-hack-day-2018/select
 
 
 ## Architecture Diagrams
