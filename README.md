@@ -1,6 +1,7 @@
 # MusicATE  
 ### **Match while listening to music out of the blue** :musical_note: :sparkling_heart:
-	
+
+</br>
 <div align=center>
 	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/sceenshot.gif" alt="gif image" width="30%" height="30%">
 	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/screenshot_static.png" alt="gif image" width="30%" height="30%">
