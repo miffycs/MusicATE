@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LHD</string>
+
+    <!-- Connect Auth -->
+    <string name="connect">Connect</string>
+    <string name="authorize">Connect and Authorize</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
