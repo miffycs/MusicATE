@@ -1,4 +1,4 @@
-# Vinder
+# MusicATE
 
 ## Getting Started
 * Make a clone of the project
