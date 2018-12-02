@@ -1,4 +1,6 @@
-# MusicATE
+# MusicATE  
+
+<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/sceenshot.gif" alt="gif image" width="30%" height="30%">
 
 ## Getting Started
 * Make a clone of the project
