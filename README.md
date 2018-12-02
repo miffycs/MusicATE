@@ -24,5 +24,5 @@ $ firebase serve
 * [Henry Li](https://github.com/henry226)
 * [Hank Liang](https://github.com/Chun-Chieh)
 * [Alden Liang](https://github.com/LiangA)
-* [Cece Chen](https://github.com/BUicicchen)
+* [Cici Chen](https://github.com/BUicicchen)
 * [Miffy Chen](https://github.com/miffycs)
