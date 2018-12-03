@@ -3,7 +3,7 @@
 
 </br>
 <div align=center>
-	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/sceenshot.gif" alt="gif image" width="30%" height="30%">
+	<img src="https://github.com/miffycs/MusicATE/blob/master/Android_app/screenshot.gif" alt="gif image" width="30%" height="30%">
 	<img src="https://github.com/miffycs/Vinder/blob/master/Android_App/screenshot_static.png" alt="gif image" width="30%" height="30%">
 </div>
 </br>
