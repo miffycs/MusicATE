@@ -7,4 +7,14 @@
     <string name="connecting">Connecting</string>
     <string name="connected">Connected</string>
     <string name="disconnect">Disconnect</string>
+
+    <!-- Spotify exception -->
+    <string name="ex_not_installed">Spotify is not installed</string>
+    <string name="dialog_download_spotify">Spotify is required to continue</string>
+    <string name="dialog_download">Download</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reconnect">reconnect</string>
+
 </resources>
