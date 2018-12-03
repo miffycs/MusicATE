@@ -57,3 +57,6 @@ Third, we round up the project and present each other’s process on the project
 * App has the ability to match user with other user who shares the same music preferences.
 * If matched, user can record a message for short amount of time to talk to each other.
 * Then if both users are matched again, then they can schedule a date to hangout!
+
+## Class Diagram  
+<img src="https://github.com/miffycs/MusicATE/blob/master/MusicATE.png" alt="gif image" width="100%" height="100%">  
